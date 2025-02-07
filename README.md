@@ -8,6 +8,8 @@ My name is Cristina Capozzi Iorio, I'm a cybersecurity student passionate about 
 
 💬 Skills & Technologies I'm Learning: Penetration Testing, Network Security, Cryptography, Linux, Python, Kali Linux, Nmap, Wireshark.
 
+🔗 Let’s Connect: I love collaborating with other cybersecurity enthusiasts, sharing knowledge and learning together.
+
 <!--
 **Cristina-CI/Cristina-CI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
