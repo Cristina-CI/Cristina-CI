@@ -5,6 +5,7 @@
 My name is Cristina Capozzi Iorio, I'm a cybersecurity student passionate about securing digital environments and understanding the latest in hacking techniques, security protocols, and threat detection. On GitHub, I will share my study projects, CTF (Capture The Flag) challenges, security tools, and open-source contributions as I continue to build my skills in the field.
 
 📍 Currently studying Cybersecurity @CyberHackademy at FedericoII (UniNa) located in San Giovanni a Teduccio, Naples.
+
 💬 Skills & Technologies I'm Learning: Penetration Testing, Network Security, Cryptography, Linux, Python, Kali Linux, Nmap, Wireshark.
 
 <!--
